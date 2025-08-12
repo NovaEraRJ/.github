@@ -6,7 +6,7 @@ Somos um servidor de FiveM único e com tema RJ, com alto nível de qualidade e 
 ## 🎮 Conecte-se ao Servidor
 Jogue conosco! Conecte-se ao nosso servidor, faça PvP e baqueie outros jogadores.
 ```bash
-connect novaera.gg
+connect novaerarj.com
 ```
 
 ## 🔗 Nossas Redes Sociais
